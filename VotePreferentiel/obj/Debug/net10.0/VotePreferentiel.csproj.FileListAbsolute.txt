@@ -1,0 +1,15 @@
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/VotePreferentiel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/VotePreferentiel.AssemblyInfoInputs.cache
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/VotePreferentiel.AssemblyInfo.cs
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/VotePreferentiel.csproj.CoreCompileInputs.cache
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/VotePreferentiel.sourcelink.json
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/bin/Debug/net10.0/VotePreferentiel
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/bin/Debug/net10.0/VotePreferentiel.deps.json
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/bin/Debug/net10.0/VotePreferentiel.runtimeconfig.json
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/bin/Debug/net10.0/VotePreferentiel.dll
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/bin/Debug/net10.0/VotePreferentiel.pdb
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/VotePreferentiel.dll
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/refint/VotePreferentiel.dll
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/VotePreferentiel.pdb
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/VotePreferentiel.genruntimeconfig.cache
+/Users/nebulo/Documents/Cours/M2_Cyber/Microsoft/VotePreferentiel/VotePreferentiel/obj/Debug/net10.0/ref/VotePreferentiel.dll
