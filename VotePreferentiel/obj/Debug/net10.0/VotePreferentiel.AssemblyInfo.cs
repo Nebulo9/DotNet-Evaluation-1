@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VotePreferentiel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8029ff14977c0b5dd988d942c04ade77438b7865")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edb346bf5f21dbdd28e5eeadb74c76e6cca8a074")]
 [assembly: System.Reflection.AssemblyProductAttribute("VotePreferentiel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VotePreferentiel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

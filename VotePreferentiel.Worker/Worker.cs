@@ -1,6 +1,6 @@
 namespace VotePreferentiel.Worker;
 
-public class Worker(VoteProvider voteProvider, ILogger<Worker> logger, IHostApplicationLifetime lifetime) : BackgroundService
+public class Worker(VoteProvider voteProvider, IVoteCounter voteCounter, ILogger<Worker> logger, IHostApplicationLifetime lifetime) : BackgroundService
 {
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
     {
@@ -10,9 +10,8 @@ public class Worker(VoteProvider voteProvider, ILogger<Worker> logger, IHostAppl
 
             logger.LogInformation("Tours identifiés: {Count}", voteModel.Votes.Count);
 
-            var premierTour = voteModel.Votes.FirstOrDefault();
-            logger.LogInformation("Premier tour: {Choices}",
-                premierTour.Choices is null ? "none" : string.Join(", ", premierTour.Choices));
+            var winner = voteCounter.GetWinner(voteModel);      // CHANGED: replaces the "first ballot" log
+            Console.WriteLine($"Winner: {winner}"); 
         }
         catch (Exception ex)
         {
